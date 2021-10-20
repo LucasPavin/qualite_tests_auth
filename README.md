@@ -57,6 +57,12 @@
     <li>...</li>
 </ul>
 
+## Crash VM virtualBox 
+<ul> 
+    <li> fsck -f /dev/sda5.</li>
+    <li>Faire "yes" a tout.</li>
+</ul>
+
 ## Screenshhot
 <img src="src/Assets/img/screenshot-login.png" style="width: 100%">
 
